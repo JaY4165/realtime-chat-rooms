@@ -10,12 +10,13 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { getAuthToken } from "@/data/services/get-token";
+import LogOutButton from "./LogOutButton";
 
 async function Navbar() {
   const user = await getAuthToken();
 
   return (
-    <header className="h-12">
+    <header className="h-16">
       <nav className="flex items-center justify-between px-10 py-5">
         <div>
           <Link href="/">
@@ -59,6 +60,7 @@ async function Navbar() {
                   <DropdownMenuItem>
                     <Link href="/rooms">Search Rooms</Link>
                   </DropdownMenuItem>
+                  <LogOutButton />
                 </DropdownMenuContent>
               </DropdownMenu>
             </div>

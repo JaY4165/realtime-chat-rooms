@@ -142,6 +142,9 @@ function Room() {
   return (
     <div className="grid h-full w-full grid-cols-12 gap-5 p-10">
       <Card className="col-span-4 h-[calc(100vh-80px)] space-y-4 bg-neutral-200 p-5">
+        <div>
+          <h1 className="text-start text-2xl font-bold">Active Users</h1>
+        </div>
         <ScrollArea className="h-full w-full">
           {activeUsers.map((user, index) => (
             <Card key={index} className="mb-4 p-2">
