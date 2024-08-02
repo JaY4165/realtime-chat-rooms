@@ -43,10 +43,9 @@ This project is a real-time chat application built with Next.js 14 for the front
 
 ![3](https://github.com/user-attachments/assets/db1f4cee-c09f-43a4-9b2c-3b2926928585)
 
-![4](https://github.com/user-attachments/assets/f6491066-5f5e-4bfc-b680-52da4fdb
+![4](https://github.com/user-attachments/assets/c3238d7f-19ea-4c7e-ae8d-f9347d4d93dd)
 
-![5](https://github.com/user-attachments/assets/9d734a9e-1268-452d-9e0d-94ed85176222)
-c82e)
+![5](https://github.com/user-attachments/assets/4a1de2bb-1f7c-44b4-96ad-e73b5b8bd980)
 
 ![6](https://github.com/user-attachments/assets/701ceaed-32bc-49de-bd33-b3bbbe728ecb)
 
