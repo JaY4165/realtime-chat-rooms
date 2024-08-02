@@ -8,6 +8,7 @@ This project is a real-time chat application built with Next.js 14 for the front
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [images](#images)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -34,6 +35,23 @@ This project is a real-time chat application built with Next.js 14 for the front
 - **Frontend:** Next.js 14
 - **Backend:** Strapi v4
 - **Real-Time Communication:** Socket.IO
+
+## Images
+![1](https://github.com/user-attachments/assets/767d1ebc-e227-47b8-a341-e877be1a5467)
+
+![2](https://github.com/user-attachments/assets/13bc9d04-0d91-4290-866f-d538d60083c3)
+
+![3](https://github.com/user-attachments/assets/db1f4cee-c09f-43a4-9b2c-3b2926928585)
+
+![4](https://github.com/user-attachments/assets/f6491066-5f5e-4bfc-b680-52da4fdb
+
+![5](https://github.com/user-attachments/assets/9d734a9e-1268-452d-9e0d-94ed85176222)
+c82e)
+
+![6](https://github.com/user-attachments/assets/701ceaed-32bc-49de-bd33-b3bbbe728ecb)
+
+
+
 
 ## Getting Started
 
